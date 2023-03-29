@@ -13,8 +13,8 @@ SQLite used for the DataBase
 
 
 ### Option 2:
-install requirements;
-``` uvicorn main:app --reload ```
+install requirements;</br>
+ run ``` uvicorn main:app --reload ```
 
 ----
 
