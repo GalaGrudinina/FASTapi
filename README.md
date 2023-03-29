@@ -13,7 +13,7 @@ SQLite used for the DataBase
 
 
 ### Option 2:
-install requirements;</br>
+pip install -r requirements.txt </br>
  run ``` uvicorn main:app --reload ```
 
 ----
